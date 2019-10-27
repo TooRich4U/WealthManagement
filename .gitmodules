@@ -1,0 +1,3 @@
+[submodule "WealthLibrary"]
+	path = WealthLibrary
+	url = https://github.com/TooRich4U/WealthLibrary.git
